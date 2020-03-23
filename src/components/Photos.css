@@ -1,0 +1,11 @@
+.carousel-image {
+  margin: auto;
+  max-width: 800px;
+  height: 100%;
+  padding: 0px 10px;
+}
+
+.carousel-container {
+  height: calc(100vh - 56px);
+  overflow: hidden;
+}
