@@ -1,0 +1,13 @@
+.image-section {
+  height: calc(100vh - 56px);
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.image-section-img {
+  width: 100%;
+}
